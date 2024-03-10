@@ -1,0 +1,151 @@
+
+.hero-container {
+  background-color: #403d58;
+  background-image: url("../assets/Coffee\ Beans\ -\ Negative-Space\ \(Pixabay\).jpg");
+  background-size: cover;  
+  margin: 2px;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: inline-block;
+  width: 100%;
+  height: 80%;
+  position: sticky;
+  align: center;
+}
+
+.hero-text {
+  color: #f4f1d6;
+  text-align: center;
+}
+
+.hero-text h1{
+  font-size: 60px;
+}
+
+.hero-text p {
+  font-size: 20px;
+}
+
+.hero-btn {
+  text-decoration: none;
+  color: #8e5441;
+  background: #f1cbb5;
+  padding: 10px 30px;
+  border-radius: 5px;
+  margin-top: 10px;
+  display: inline-block;
+}
+
+.content-container {
+  background-color: #dbd56e;
+  height: 80%;
+  margin: 2px;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: inline-block;
+  position: sticky;
+  align: center;
+}
+
+.content-title {
+  color: black;
+  font-size: 40px;
+  text-align: center;
+}
+
+.content-text {
+  font-size: 20px;
+  text-align: left;
+  width: 50%;
+  float: left;
+}
+
+.content-btn {
+  text-decoration: none;
+  color: #755319;
+  background: #faf8f6;
+  padding: 10px 30px;
+  border-radius: 5px;
+  margin-top: 10px;
+  text-align: center;
+  display: inline-block;
+}
+
+.content-image {
+  /* width: 350px;
+  height: 150px; 
+  border: 1px solid;
+  margin-right: 20px;
+  width: 100%;
+  float: right;
+  object-fit: contain;*/
+}
+
+.table {
+  align: top;
+}
+
+.accordion-container {
+  background-color: #fc7753;
+}
+
+.panel {
+  color: #fff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 50%;
+  float: left;
+}
+
+.accordion-btn {
+  height: 50px;
+  cursor: pointer;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #ffd1dc;
+  padding: 10px 30px;
+  border-radius: 5px;
+  margin-top: 10px;
+  display: inline-block;
+  transition: 0.4s;
+}
+
+.accordion-btn:hover {
+  background-color: #fff;
+  color: #755319;
+}
+
+.footer-container {
+  background-color: #f2efea;
+  width: 100%;
+  height: 300px;
+  position: relative;
+}
+
+.footer-information {
+  color: #000;
+  width: 100%;
+  float: left;
+}
+
+.footer-information h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  width: 50%;
+  float: left;
+}
+
+.footer-information td {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  width: 50%;
+  float: left;
+}
+
+.footer-map {
+  width: 49%;
+  float:right;
+}
+
+.iframe {
+  width: 50%;
+  float: right;
+}
